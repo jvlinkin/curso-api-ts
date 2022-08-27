@@ -17,7 +17,7 @@
         "@shared/*":[
           "src/shared/*"
         ]
-      },
+      },      
      "typeRoots": [
       "@types",
       "./node_modules/@types"
